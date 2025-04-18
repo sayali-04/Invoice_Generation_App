@@ -48,3 +48,4 @@ Or sign up with any email/password to use as a staff
 https://drive.google.com/drive/folders/1tNpSHWpU6k8AanS-H9VUwJPXdxO7a5RM?usp=sharing
 
 📥 Download APK
+https://github.com/sayali-04/Invoice_Generation_App/releases/tag/v1.0.0
