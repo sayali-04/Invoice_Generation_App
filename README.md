@@ -16,6 +16,7 @@ PDFDocument API for invoice generation
 
 MVVM Architecture (coming soon)
 
+
 🚀 Features
 Generate professional invoices
 
@@ -33,7 +34,7 @@ Modern UI built with Material3
 Date picker for invoice date
 
 Login and register screens with Firebase authentication
-s
+
 👥 User Roles
 login with email id: example@123.com
 password:pass123
@@ -48,10 +49,12 @@ https://github.com/sayali-04/Invoice_Generation_App/releases/tag/v1.0.
 
 OUTPUT:
 
+
 ## 📱 Login Screen
-![Screenshot 2025-04-18 115552](https://github.com/user-attachments/assets/f9e521d2-23d7-4104-9395-81ba539781e9)
+![Screenshot 2025-04-18 143137](https://github.com/user-attachments/assets/a863632b-a938-4295-a0b3-3ac7dfdd91fd)
 ## register screen
-![image](https://github.com/user-attachments/assets/d23c438b-068e-492f-b5a5-d1e48decc51a)
+![Screenshot 2025-04-18 143247](https://github.com/user-attachments/assets/4606a290-5e58-4b28-a22f-f46e5e741e53)
+
 ## Invoice screen
 ![Screenshot 2025-04-18 125947](https://github.com/user-attachments/assets/fbc18e2f-3fb7-4865-88cf-65572ea424af)
 ## invocie screen field
